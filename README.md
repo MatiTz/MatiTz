@@ -1,4 +1,8 @@
-### Hi there 👋
+👋 Hi, I'm @MatiTz
+
+<h3 align="left">Languages and Tools:</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,express,html,css,vscode)](https://skillicons.dev)
 
 <!--
 **MatiTz/MatiTz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
