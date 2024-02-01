@@ -4,6 +4,8 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,express,html,css,vscode)](https://skillicons.dev)
 
+<h3 align="left">Contact:</h3>mateusz.tokarski1999@gmail.com
+
 <!--
 **MatiTz/MatiTz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
